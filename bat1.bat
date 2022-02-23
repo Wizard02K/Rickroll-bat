@@ -1,5 +1,5 @@
 @echo off
-timeout 900
+timeout 1500
 cd %temp%
 start rickyou.vbs && volup.vbs
 exit 0
